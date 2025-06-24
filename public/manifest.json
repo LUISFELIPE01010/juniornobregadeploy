@@ -1,0 +1,26 @@
+{
+  "name": "Junior Nobrega - Personal Trainer",
+  "short_name": "Junior PT",
+  "description": "Personal trainer em Santos com treinos personalizados",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#e10600",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/fav.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/fav.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "fitness", "lifestyle"],
+  "lang": "pt-BR"
+}
